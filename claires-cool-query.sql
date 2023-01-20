@@ -1,3 +1,5 @@
 select *, current_timestamp()
 
-from analytics.the_good_place.workouts
+from analytics.the_good_place.
+
+where kevin = 'cool'

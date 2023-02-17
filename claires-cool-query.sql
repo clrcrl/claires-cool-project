@@ -6,4 +6,6 @@ where kevin = 'cool'
     or sarah = 'great'
     or john = 'awesome'
     or sara = 'amazing'
-    
+    or tom = 'fun'
+    or alex = 'funny'
+    or kyle = 'tall'
